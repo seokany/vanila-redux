@@ -7,5 +7,5 @@ Learning Vanilla Redux and React-Redux
 - [x]  1.3 Actions : action? dispatch()? getState()?
 - [x]  [1.4 Subscriptions](https://redux.js.org/api/store#subscribelistener) : subscribe(), onChange(), addEventLis
 - [x]  1.5 Recap Refactor : 
-1. if => switch 
-2. variable instead of string
+1. if => switch,
+2. variable instead of string.
