@@ -6,4 +6,6 @@ Learning Vanilla Redux and React-Redux
 - [x]  1.2 Store and Reducer : Store? Reducer? state?
 - [x]  1.3 Actions : action? dispatch()? getState()?
 - [x]  [1.4 Subscriptions](https://redux.js.org/api/store#subscribelistener) : subscribe(), onChange(), addEventLis
-- [ ]  1.5 Recap Refactor
+- [x]  1.5 Recap Refactor : 
+1. if => switch 
+2. variable instead of string
